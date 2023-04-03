@@ -1,0 +1,17 @@
+[
+  {
+		"name": "Edmund Blackadder",
+		"uniqueTo": "England"
+		"unitType": "Domain",
+		"movement": 3,
+		"strength": 80,
+		"interceptRange": 2,
+		"uniques": ["Unbuildable","Great Person - [Science]","May capture killed [Infantry] units <with [75]% chance>","May capture killed [Armor] units <with [75]% chance>","[+20]% Strength <vs [Infantry] units>","[+20]% Strength <vs [Armor] units> <when attacking>"]
+		"promotions": ["Blitz","Drill","Shock"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
+	}
+]
