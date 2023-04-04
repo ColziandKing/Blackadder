@@ -11,7 +11,7 @@
 	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
 		"requiredTech": "Chivalry",
-		"requiredBuilding": "Library",
+		"requiredBuilding": "Blackadder Clan",
 		"promotions": ["Blitz","Woodsman","Charge"],
 		"attackSound": "lshit"
 		"civilopediaText": [
