@@ -6,7 +6,12 @@
 		"movement": 3,
 		"strength": 80,
 		"interceptRange": 2,
-		"uniques": ["Unbuildable","Great Person - [Science]","May capture killed [Infantry] units <with [75]% chance>","May capture killed [Armor] units <with [75]% chance>","[+20]% Strength <vs [Infantry] units>","[+20]% Strength <vs [Armor] units> <when attacking>"]
+		"uniques": ["Unbuildable","Great Person - [Science]","May capture killed [Infantry] units <with [75]% chance>",
+	        "May capture killed [Armor] units <with [75]% chance>","[+20]% Strength <vs [Infantry] units>","[+20]% Strength <vs [Armor] units> <when attacking>",
+	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+	
+		"requiredTech": "Chivalry",
+		"requiredBuilding": "Library",
 		"promotions": ["Blitz","Woodsman","Charge"],
 		"attackSound": "lshit"
 		"civilopediaText": [
