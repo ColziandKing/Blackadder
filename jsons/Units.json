@@ -18,5 +18,25 @@
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
 				"imageSize": 256 }]
+	},
+{
+		"name": "Baldrick",
+		"uniqueTo": "England"
+		"unitType": "Domain",
+		"movement": 2,
+		"strength": 40,
+		"interceptRange": 1,
+		"uniques": ["Unbuildable","May capture killed [Infantry] units <with [35]% chance>",
+	        "May capture killed [Armor] units <with [35]% chance>","[+10]% Strength <vs [Infantry] units>","[+10]% Strength <vs [Armor] units> <when attacking>",
+	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+	
+		"requiredTech": "Chivalry",
+		"requiredBuilding": "Blackadder Clan",
+		"promotions": ["Amphibious","Medic","Medic II"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
 	}
 ]
