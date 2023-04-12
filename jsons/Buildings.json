@@ -20,15 +20,6 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Cathedral",
-		"cost": 0,
-		"faith": 1,
-		"culture": 3,
-		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
-		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
-	},
-	{
 		"name": "Monastery",
 		"cost": 0,
 		"culture": 2,
