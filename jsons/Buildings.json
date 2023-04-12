@@ -19,7 +19,6 @@
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [30] turns.","[+20]% Golden Age length"],
 		"requiredTech": "Civil Service"}
 	},
-	,
 //special
 {
 		"name": "Cathedral",
