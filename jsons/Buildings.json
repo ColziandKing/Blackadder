@@ -29,7 +29,7 @@
 		"hurryCostModifier": 40,
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
-			"Hidden when religion is disabled","Destroyed when the city is captured","May choose [1] additional belief(s) of any type when [founding] a religion"]
+			"Hidden when religion is disabled","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Mosque",
@@ -86,15 +86,5 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Drama and Poetry"
-	},
-	{
-		"name": "Cathedral",
-		"cost": 0,
-		"faith": 1,
-		"culture": 3,
-		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
-		"requiredTech": "Drama and Poetry",
-		"uniques": ["Hidden when religion is disabled"]
-	},
+	}
 ]
