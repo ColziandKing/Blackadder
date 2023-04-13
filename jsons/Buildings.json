@@ -71,5 +71,20 @@
 	"uniques": ["[+1 Food] from [Mountain] tiles [in this city]","[+1 Food] from [Desert] tiles [in this city]","[+1 Food] from [Tundra] tiles [in this city]","[+1 Food] from [Snow] tiles [in this city]"],
         "maintenance": 2,
 	"requiredTech": "The Wheel"
-    }
+    },
+{
+        "name": "Seaside Resort",
+        "cost": 100,
+	"happiness": 2,
+	"maintenance": 1,
+	"uniques": ["Must be next to [Coast]"],
+	"requiredTech": "Optics"
+    },
+	{
+		"name": "Garden",
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Drama and Poetry"
+	}
 ]
