@@ -27,7 +27,7 @@
 		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
 		"turnsToBuild": 7,
 		"uniques": ["[+1 Production, +2 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]"],
-		"techRequired": "Construction",
+		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},
 	{
@@ -57,7 +57,7 @@
 		"food": 1,
 		"production": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Guilds",
+		"techRequired": "Engineering",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
 		"uniques": [
 "[+2 Gold] <after discovering [Economics]>",
