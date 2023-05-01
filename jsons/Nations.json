@@ -23,11 +23,9 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Blackadder Dynasty & Baldrick's",
-		"uniques": ["Starts with [Sailing]", "Starts with [Mining]",
-                "[+2] Movement <for [Water] units>","Can spend Gold to annex or puppet a City-State that has been your ally for [8] turns.",
-               "[+100]% [Culture] from every [Museum]","Gain a free [Amphitheater] [in capital]",
-               "[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
-               "[+5]% [Science] <while the empire is happy>","[+5]% [Production] <while the empire is happy>","[+5]% [Science] <when between [20] and [200] Happiness>","[+5]% [Production] <when between [20] and [200] Happiness>"],
+		"uniques": ["Starts with [Sailing]", "Gain a free [Amphitheater] [in capital]","[+2] Movement <for [Water] units>",
+               			"[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
+			    "[+5]% [Production] <while the empire is happy>","[+5]% [Science] <when between [20] and [200] Happiness>","[+5]% [Production] <when between [20] and [200] Happiness>"],
     
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
@@ -59,7 +57,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Diplomatic Marriage",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [25] turns."],
+		"uniques": ["[+100]% [Culture] from every [Museum]","Starts with [Mining]","[+5]% [Science] <while the empire is happy>"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
