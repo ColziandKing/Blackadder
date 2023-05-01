@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Domain",
+        "movementType": "Land"
+  },
+  {
+    "name": "Empire",
+        "movementType": "Water"
+  }
+  ]
