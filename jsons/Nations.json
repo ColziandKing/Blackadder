@@ -23,7 +23,7 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Blackadder Dynasty & Baldrick's",
-		"uniques": ["Starts with [Fishing]", "Starts with [Mining]",
+		"uniques": ["Starts with [Sailing]", "Starts with [Mining]",
                 "[+2] Movement <for [Water] units>","Can spend Gold to annex or puppet a City-State that has been your ally for [8] turns.",
                "[+100]% [Culture] from every [Museum]","Gain a free [Amphitheater] [in capital]",
                "[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
