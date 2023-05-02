@@ -1,0 +1,8 @@
+[
+  {
+        "name": "In God Alone",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Kampung] tiles [in all cities]",
+		    "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Jolopong] tiles [in all cities]"]
+    }
+  ]
