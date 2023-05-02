@@ -12,5 +12,10 @@
         "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Idendo] tiles [in all cities]",
 		    "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Kampung] tiles [in all cities]",
 		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Jolopong] tiles [in all cities]"]
+    },
+   {
+        "name": "Harmony",
+        "type": "Follower",
+        "uniques": ["[+1 Food, +1 Science, +1 Culture] [in this city]"]
     }
   ]
