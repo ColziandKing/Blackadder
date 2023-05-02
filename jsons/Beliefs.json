@@ -1,8 +1,16 @@
 [
   {
-        "name": "In God Alone",
+        "name": "Faith Improvement",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Kampung] tiles [in all cities]",
-		    "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Jolopong] tiles [in all cities]"]
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Moai] tiles [in all cities]",
+		    "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Terrace farm] tiles [in all cities]",
+		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Polder] tiles [in all cities]"]
+    },
+  {
+        "name": "Community Faith",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Idendo] tiles [in all cities]",
+		    "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Kampung] tiles [in all cities]",
+		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Jolopong] tiles [in all cities]"]
     }
   ]
