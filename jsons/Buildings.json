@@ -58,6 +58,34 @@
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["Hidden when religion is disabled"]
 	},
+	//Special
+	{
+		"name": "Ziggurat",
+		"culture": 3,
+		"requiredBuilding": "Temple",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+25]% [Science] in this city", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Stave Church",
+		"faith": 2,
+		"requiredBuilding": "Temple",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Nilometer",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]","[+15]% [Food] in this city","[+1 Gold] [in all cities] <with [1] to [2] neighboring [improved] [Flood plains] tiles>"],
+		"requiredTech": "The Wheel"
+	},
+	
+	//Normie
 {
 		"name": "Stele",
 		"requiredBuilding": "Monument",
