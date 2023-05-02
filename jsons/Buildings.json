@@ -12,17 +12,6 @@
                "Militaristic City-States grant units [4] times as fast when you are at war with a common nation","[1] free [Edmund Blackadder] units appear"]
 	},
 	{
-		"name": "Diplomatic Marriage",
-		"cost": 1,
-		"culture": 1,
-		"happiness": 4,
-		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
-			    "Limited to [1] per Civilization","[+20]% Golden Age length",
-			    "Doubles Gold given to enemy if city is captured"],
-		"requiredTech": "Civil Service",
-	},
-	{
 		"name": "Monastery",
 		"cost": 1,
 		"culture": 2,
@@ -46,7 +35,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Hidden when religion is disabled","Doubles Gold given to enemy if city is captured","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+		"uniques": ["Hidden when religion is disabled"]
 	},
 	{
 		"name": "Pagoda",
@@ -57,7 +46,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"requiredTech": "Writing",
-		"uniques": ["Hidden when religion is disabled","Doubles Gold given to enemy if city is captured","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
 	},
 	{
 		"name": "Cathedral",
@@ -67,7 +56,7 @@
 		"happiness": 1,
 		"requiredTech": "Philosophy",
 		"specialistSlots": {"Artist": 1},
-		"uniques": ["Hidden when religion is disabled","Doubles Gold given to enemy if city is captured","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+		"uniques": ["Hidden when religion is disabled"]
 	},
 {
 		"name": "Stele",
