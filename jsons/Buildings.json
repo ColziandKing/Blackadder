@@ -81,10 +81,61 @@
 		"name": "Nilometer",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
+		"requiredBuilding": "Water Mill",
 		"uniques": ["Must be on [River]","[+15]% [Food] in this city","[+1 Gold] [in all cities] <with [1] to [2] neighboring [improved] [Flood plains] tiles>"],
 		"requiredTech": "The Wheel"
 	},
-	
+	{
+		"name": "Turkish Bath",
+		"gold": 1,
+		"percentStatBonus": {"gold": 30},
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Stock Exchange",
+		"uniques": ["[+25]% [Gold] in this city"]
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Lion's Gate",
+		"gold": 2,
+		"cityStrength": 4,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"requiredBuilding": "Walls",
+		"uniques": ["Destroyed when the city is captured","[-15]% Culture cost of natural border growth [in all cities]","[-15]% Gold cost of natural border growth [in all cities]"]
+	},
+	{
+		"name": "Hov",
+		"happiness": 1,
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Chateau",
+		"culture": 3,
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Madrasah",
+		"faith": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "University",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+33]% [Science] in this city"],
+		"requiredTech": "Education"
+	},
 	//Normie
 {
 		"name": "Stele",
