@@ -82,7 +82,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Water Mill",
-		"uniques": ["Must be on [River]","[+15]% [Food] in this city","[+1 Gold] [in all cities] <with [1] to [2] neighboring [improved] [Flood plains] tiles>"],
+		"uniques": ["Must be on [River]","[+15]% [Food] in this city","[+1 Science] from [Flood plains] tiles [in this city]"],
 		"requiredTech": "The Wheel"
 	},
 	{
