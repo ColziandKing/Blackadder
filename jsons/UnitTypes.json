@@ -5,6 +5,6 @@
   },
   {
     "name": "Empire",
-        "movementType": "Water", "Land"
+        "movementType": "Water"
   }
   ]
