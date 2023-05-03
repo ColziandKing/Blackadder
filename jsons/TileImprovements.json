@@ -84,7 +84,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Can be built outside your borders","Unpillagable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
-	}
+	},
 	{
        "name": "Kampung",
        "terrainsCanBeBuiltOn": ["Coast","Lakes"],
