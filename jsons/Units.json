@@ -47,7 +47,8 @@
 			    "Can instantly construct a [Ancient ruins] improvement <by consuming this unit>",
 			    "Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>"],
 		"cost": 200
-	}{
+	},
+{
 		"name": "Great Boat",
 		"unitType": "Water Civilian",
 		"movement": 2,
