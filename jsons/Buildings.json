@@ -60,6 +60,16 @@
 	},
 	//Special
 	{
+		"name": "Staatsmuseum",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Museum",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Ziggurat",
 		"culture": 3,
 		"requiredBuilding": "Temple",
