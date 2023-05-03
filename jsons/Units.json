@@ -47,7 +47,15 @@
 			    "Can instantly construct a [Ancient ruins] improvement <by consuming this unit>",
 			    "Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>"],
 		"cost": 200
-	} 
+	}{
+		"name": "Great Boat",
+		"unitType": "Empire",
+		"movement": 2,
+		"uniques": ["Requires at least [5] population","Excess Food converted to Production when under construction",
+			    "Can instantly construct a [Jolopong] improvement <by consuming this unit>",
+			    "Can instantly construct a [Kampung] improvement <by consuming this unit>"],
+		"cost": 200
+	}  
   //Ancient
   {
 		"name": "Maori Warrior",
