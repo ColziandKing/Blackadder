@@ -73,18 +73,6 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},
-	//Special improvements
-	{
-		"name": "Ancient ruins",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Can be built outside your borders","Unpillagable", "Provides a random bonus when entered"]
-	},
-	{
-		"name": "Barbarian encampment",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Can be built outside your borders","Unpillagable"],
-        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
-	},
 	{
        "name": "Kampung",
        "terrainsCanBeBuiltOn": ["Coast","Lakes"],
