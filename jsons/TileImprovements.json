@@ -75,11 +75,11 @@
 	},
 	{
        "name": "Kampung",
-       "terrainsCanBeBuiltOn": ["Coast","Lakes"],
+       "terrainsCanBeBuiltOn": ["Land"],
        "production":1,
        "techRequired":"Optics",
        "turnsToBuild": 7,
-       "uniques": ["Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
+       "uniques": ["Must be adjacent to [Coast] and [Lakes] tiles","Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
 			"[+1 Culture] <after discovering [Flight]>"]
    },
 	{
