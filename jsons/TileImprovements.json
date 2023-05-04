@@ -139,13 +139,10 @@
 	},
 	{
 		"name": "Holy Place",
-		"happiness": 1,
+		"happiness": 2,
 		"culture": 1,
-		"gold": 1,
 		"food": 1,
 		"faith": 1,
-		"production": 1,
-		"science": 1,
-		"uniques": ["Gives a defensive bonus of [50]%","Great Improvement"]
+		"uniques": ["Gives a defensive bonus of [50]%"]
 	}
   ]
