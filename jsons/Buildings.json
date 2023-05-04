@@ -22,7 +22,7 @@
 		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Provides [1] [Porcelain]","Provides [1] [Jewelry]",
-			"Doubles Gold given to enemy if city is captured",
+			"Doubles Gold given to enemy if city is captured","Unsellable",
 			"Hidden when religion is disabled","Destroyed when the city is captured"
 		]
 	},
@@ -35,7 +35,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Unsellable","Hidden when religion is disabled"]
 	},
 	{
 		"name": "Pagoda",
@@ -46,7 +46,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"requiredTech": "Writing",
-		"uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+		"uniques": ["Unsellable","Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
 	},
 	{
 		"name": "Cathedral",
@@ -56,7 +56,7 @@
 		"happiness": 1,
 		"requiredTech": "Philosophy",
 		"specialistSlots": {"Artist": 1},
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Unsellable","Hidden when religion is disabled"]
 	},
 	//Special
 	{
@@ -146,6 +146,73 @@
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+33]% [Science] in this city"],
 		"requiredTech": "Education"
 	},
+	//Extraa
+	{
+		"name": "Ziggurat",
+		"requiredBuilding": "Temple",
+		"maintenance": 3,
+		"faith": 1,
+		"science": 1,
+		"specialistSlots": {"Scientist": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Synagogue",
+		"requiredBuilding": "Temple",
+		"faith": 2,
+		"happiness": 1,
+		"gold": 2,
+		"cost": 100,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine"
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sphinx Gate",
+		"requiredBuilding": "Courthouse",
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 120,
+		"maintenance": 4,
+		"culture": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Khachkar",
+		"requiredBuilding": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"hurryCostModifier": 40,
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
+	},
+		{
+		"name": "Slave Market",
+		"requiredBuilding": "Market",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"gold": 4,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Free [Worker] appears"],
+		"requiredTech": "Currency"
+	},
+	    {
+		"name": "Smeltery",
+        "requiredBuilding": "Forge",
+        "maintenance": 1,
+		"production": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Iron Working",
+        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+    },
 	//Normie
 {
 		"name": "Stele",
