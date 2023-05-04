@@ -1869,7 +1869,7 @@ UnitPromotionIcons/Mount
   offset: 0, 0
   index: -1
   
-  game5.png
+game5.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
