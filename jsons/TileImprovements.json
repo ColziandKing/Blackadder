@@ -139,6 +139,7 @@
 	{
 		"name": "Holy Place",
 		"terrainsCanBeBuiltOn": ["Plains"],
+		"turnsToBuild": 8,
 		"happiness": 2,
 		"culture": 1,
 		"food": 1,
