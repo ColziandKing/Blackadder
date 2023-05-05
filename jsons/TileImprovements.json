@@ -138,10 +138,12 @@
 	},
 	{
 		"name": "Holy Place",
+		"terrainsCanBeBuiltOn": ["Plains"],
 		"happiness": 2,
 		"culture": 1,
 		"food": 1,
 		"faith": 1,
+		"techRequired": "Pottery",
 		"uniques": ["Gives a defensive bonus of [50]%"]
 	}
   ]
