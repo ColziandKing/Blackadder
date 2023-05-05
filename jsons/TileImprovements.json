@@ -80,7 +80,7 @@
        "production":1,
        "techRequired":"Optics",
        "turnsToBuild": 7,
-       "uniques": ["Must be adjacent to [Coast], [River] and [Lakes] tiles","Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
+       "uniques": ["Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
 			"[+1 Culture] <after discovering [Flight]>"]
    },
 	{
@@ -99,7 +99,6 @@
 		"techRequired": "Engineering",
 		"terrainsCanBeBuiltOn": ["Land","Coast","Lakes"],
 		"uniques": [
-"Must be adjacent to [Coast], [River] and [Lakes] tiles",
 "[+2 Gold] <after discovering [Economics]>",
 "[+1 Production] for each adjacent [Jolopong] <after discovering [Industrialization]>",
 "Can be built outside your borders"]
