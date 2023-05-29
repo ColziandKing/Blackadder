@@ -60,6 +60,14 @@
 	},
 	//Special
 	{
+		"name": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
+	},
+	{
 		"name": "Staatsmuseum",
 		"culture": 3,
 		"specialistSlots": {"Artist": 1},
@@ -67,7 +75,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Can only be built [in puppeted cities]","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat",
