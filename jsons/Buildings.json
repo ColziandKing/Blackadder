@@ -60,12 +60,20 @@
 	},
 	//Special
 	{
-		"name": "Courthouse",
+		"name": "Annexation Court",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built [in annexed cities]"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Courthouse",
+		"maintenance": 3,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Courthouse",
+		"uniques": [],
+		"requiredTech": ""
 	},
 	{
 		"name": "Staatsmuseum",
