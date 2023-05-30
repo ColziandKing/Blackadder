@@ -72,8 +72,8 @@
 		"maintenance": 3,
 		"hurryCostModifier": 50,
 		"requiredBuilding": "Courthouse",
-		"uniques": [],
-		"requiredTech": ""
+		"uniques": ["[+10]% [Happiness] in this city"],
+		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Staatsmuseum",
@@ -83,7 +83,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
-		"uniques": ["Can only be built [in puppeted cities]","Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat",
