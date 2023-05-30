@@ -60,7 +60,7 @@
 	},
 	//Special
 	{
-		"name": "Annexation Court",
+		"name": "The Annex",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
