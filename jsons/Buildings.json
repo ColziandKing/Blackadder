@@ -1,7 +1,7 @@
 [
 {
 		"name": "Blackadder Clan",
-    "uniqueTo": "England",
+    		"uniqueTo": "Britain",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
