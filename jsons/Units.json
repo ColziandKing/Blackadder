@@ -1,7 +1,7 @@
 [
   {
 		"name": "Edmund Blackadder",
-		"uniqueTo": "England"
+		"uniqueTo": "Britain"
 		"unitType": "Domain",
 		"movement": 3,
 		"strength": 80,
@@ -21,7 +21,7 @@
 	},
 {
 		"name": "Baldrick",
-		"uniqueTo": "England"
+		"uniqueTo": "Britain"
 		"unitType": "Civilian",
 		"movement": 2,
 		"strength": 40,
