@@ -2,7 +2,7 @@
   {
 		"name": "Edmund Blackadder",
 		"uniqueTo": "Britain"
-		"unitType": "Domain",
+		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 80,
 		"interceptRange": 2,
@@ -22,7 +22,7 @@
 {
 		"name": "Baldrick",
 		"uniqueTo": "Britain"
-		"unitType": "Civilian",
+		"unitType": "Mounted",
 		"movement": 2,
 		"strength": 40,
 		"interceptRange": 1,
