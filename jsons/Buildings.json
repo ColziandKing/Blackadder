@@ -191,6 +191,16 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
+	{
+		"name": "Floating Gardens",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
   {
 		"name": "Walls of Babylon",
 		"requiredBuilding": "Walls",
@@ -276,6 +286,16 @@
 		"requiredBuilding": "Walls",
 		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Satrap's Court",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	},
   {
 		"name": "Ceilidh Hall",
