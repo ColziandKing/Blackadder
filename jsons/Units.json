@@ -79,7 +79,6 @@
 		"strength": 4,
 		"rangedStrength": 7,
 		"cost": 20,
-		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
@@ -92,7 +91,6 @@
 		"strength": 5,
 		"rangedStrength": 7,
 		"cost": 36,
-		"requiredTech": "Agriculture",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
