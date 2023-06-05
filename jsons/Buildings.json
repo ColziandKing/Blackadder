@@ -193,6 +193,7 @@
 	},
 	{
 		"name": "Floating Gardens",
+		"requiredBuilding": "Water Mill",
 		"food": 2,
 		"production": 1,
 		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
@@ -294,7 +295,7 @@
 		"happiness": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
+		"requiredBuilding": "Bank",
 		"requiredTech": "Banking"
 	},
   {
