@@ -23,7 +23,8 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Blackadder Dynasty & Baldrick's",
-		"uniques": ["Starts with [Sailing]", "Gain a free [Amphitheater] [in capital]","[+2] Movement <for [Water] units>",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+			    "Starts with [Sailing]", "Gain a free [Amphitheater] [in capital]","[+2] Movement <for [Water] units>",
                			"[+50]% Production when constructing [All] buildings [in all cities] <in [River] tiles>",
 			    "[+5]% [Production] <while the empire is happy>","[+5]% [Science] <when between [20] and [200] Happiness>","[+5]% [Production] <when between [20] and [200] Happiness>"],
     
